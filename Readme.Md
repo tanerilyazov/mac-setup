@@ -1,10 +1,3 @@
----
-uuid: 20230425121339
-created: 2023-04-25T12:13:39
-last-modified: 2023-04-25T12:13:39
-alias:
----
-
 
 # [[Setting up new MacBook]]
 
