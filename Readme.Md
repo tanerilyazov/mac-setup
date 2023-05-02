@@ -1,0 +1,1 @@
+../../obsidian/vault/notes/Areas/Mac/Setting up new MacBook.md
