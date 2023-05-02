@@ -116,9 +116,3 @@ alias:
 - Trackpad
 	- Tap to Click on
 
----
-
-## 📇 Additional Metadata
-
-- 🗂 Type:: #type/note
-- #inbox 
