@@ -88,7 +88,6 @@
 	- [Latest](https://github.com/mangerlahn/Latest)
 	- [HiddenBar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)
 	- [Presentify](https://presentify.compzets.com/)
-	- [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt)
 	- [Microsoft Edge](https://www.microsoft.com/en-gb/edge/download?form=MA13FJ)
 	- [Keka](https://www.keka.io/en/)
 
