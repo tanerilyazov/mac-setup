@@ -72,6 +72,7 @@
 	- [Shottr](https://shottr.cc/)
 	- [HazeOver](https://hazeover.com/)
 	- [Centered](https://www.centered.app/)
+	- [Session](https://www.stayinsession.com/)
 - Reading, Archiving & Notes
 	- [Obsidian](https://obsidian.md/download)
 	- [Drafts](https://getdrafts.com/)
